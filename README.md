@@ -27,7 +27,7 @@ These tools represent different approaches to enabling self-service, standardiza
 
 ## Homegrown Portal Option
 
-Many organizations choose to build their own portal—typically using **Backstage OSS** or a custom framework—similar to *portal.platformetrics.com*.  
+Many organizations choose to build their own portal—typically using **Backstage OSS** or a custom framework—similar to Visit [Platformetrics Portal](https://portal.platformetrics.com) to learn more. 
 A homegrown portal offers deep control and domain alignment but requires ongoing investment and expertise.
 
 ### When a Homegrown Portal Works Best
