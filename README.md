@@ -4,31 +4,35 @@
 
 **Portal IQ** is a structured decision-making framework for evaluating Internal Developer Portals (IDPs) and engineering platforms. It helps technology leaders choose the right combination of tools that improve developer experience, operational efficiency, and business value.
 
+You can access the framework here [Portal IQ](https://portal-iq.platformetrics.com), but please read the entire document to understand how to use it
+
 Rather than treating every platform tool as a “DevOps solution,” Portal IQ organizes the landscape into **platform planes**, **capabilities**, and **outcomes**, aligning these dimensions with your organization’s unique context.
 
 ---
 
 ## What You Will Compare
 
-Portal IQ evaluates **eight leading platform engineering solutions** across multiple dimensions to help you identify the best fit for your needs.
+Portal IQ evaluates **eight leading platform engineering solutions** across multiple dimensions to help you identify the best fit for your needs. You might ask, why these, and why not anything else? These are generally market leaders, and this is what we hear most from our clients. 
 
-- Backstage OSS  
-- Spotify Portal  
-- Port  
-- Cortex  
-- Harness IDP  
-- OpsLevel  
-- Aviator  
-- Atlassian Compass  
+- [Backstage OSS](backstage.io)
+- [Spotify Portal](https://backstage.spotify.com/)
+- [Port](https://port.io)
+- [Cortex](cortex.io)  
+- [Harness IDP](harness.io)
+- [OpsLevel](https://www.opslevel.com/)
+- [Aviator](https://aviator.co)
+- [Atlassian Compass](https://www.atlassian.com/software/compass))
 
 These tools represent different approaches to enabling self-service, standardization, and insight-driven developer experiences.
+
+Kindly do not die wondering why are IDPs (Internal Developer Platforms) not shown here. The reason is simple. IDPs != Dev Portals. If you are confused already, we urge you to get a copy of [Effective Platform Engineering](https://effectiveplatformengineering.com) and read chapter 10 for an authoritative analysis of this field of study.
 
 ---
 
 ## Homegrown Portal Option
 
 Many organizations choose to build their own portal—typically using **Backstage OSS** or a custom framework—similar to Visit [Platformetrics Portal](https://portal.platformetrics.com) to learn more. 
-A homegrown portal offers deep control and domain alignment but requires ongoing investment and expertise.
+A homegrown portal offers deep control and domain alignment but requires ongoing investment and expertise. We haven't included that in the study as your requirements might be very different. Expect the cost to be very high if you are building a custom, exhaustive portal. If you are going to build it anyway, you don't need any comparisons as its a philosophical decision.
 
 ### When a Homegrown Portal Works Best
 - You need domain-specific workflows and deep customization.  
@@ -205,7 +209,7 @@ This structured approach helps teams avoid opinion-based “tool contests” and
 ## Conclusion
 
 **Portal IQ** provides a consistent framework for evaluating, comparing, and implementing internal developer portals and platforms.  
-By organizing choices around clear dimensions—platform planes, personas, and outcomes—it turns complexity into clarity and helps you invest wisely in developer experience.
+By organizing choices around precise dimensions—platform planes, personas, and outcomes—it turns complexity into clarity and helps you invest wisely in developer experience.
 
 ---
 
