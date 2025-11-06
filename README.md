@@ -17,11 +17,11 @@ Portal IQ evaluates **eight leading platform engineering solutions** across mult
 - [Backstage OSS](backstage.io)
 - [Spotify Portal](https://backstage.spotify.com/)
 - [Port](https://port.io)
-- [Cortex](cortex.io)  
-- [Harness IDP](harness.io)
+- [Cortex](https://cortex.io)  
+- [Harness IDP](https://harness.io)
 - [OpsLevel](https://www.opslevel.com/)
 - [Aviator](https://aviator.co)
-- [Atlassian Compass](https://www.atlassian.com/software/compass))
+- [Atlassian Compass](https://www.atlassian.com/software/compass)
 
 These tools represent different approaches to enabling self-service, standardization, and insight-driven developer experiences.
 
