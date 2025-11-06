@@ -14,7 +14,7 @@ Rather than treating every platform tool as a “DevOps solution,” Portal IQ o
 
 Portal IQ evaluates **eight leading platform engineering solutions** across multiple dimensions to help you identify the best fit for your needs. You might ask, why these, and why not anything else? These are generally market leaders, and this is what we hear most from our clients. 
 
-- [Backstage OSS](backstage.io)
+- [Backstage OSS](https://backstage.io)
 - [Spotify Portal](https://backstage.spotify.com/)
 - [Port](https://port.io)
 - [Cortex](https://cortex.io)  
@@ -130,7 +130,7 @@ Compass integrates tightly within Atlassian Cloud, while Harness IDP connects ac
 - Ownership model (vendor-managed vs. platform-managed).  
 - Ease of upgrades and experimentation.
 
-> **Note:** A simpler, fast-moving platform that teams can actually maintain is more valuable than a sophisticated portal that no one can sustain.
+ **Note:** A simpler, fast-moving platform that teams can actually maintain is more valuable than a sophisticated portal that no one can sustain.
 
 ---
 
@@ -203,6 +203,11 @@ When configured, Portal IQ produces:
 - A detailed technical appendix for platform and SRE teams  
 
 This structured approach helps teams avoid opinion-based “tool contests” and make decisions grounded in measurable outcomes.
+
+---
+## Code
+
+Portal IQ code could be open-sourced soon. We are still working making a few additional changes.
 
 ---
 
