@@ -331,7 +331,7 @@ We welcome contributions to improve Portal IQ's methodology and implementation. 
 
 This methodology documentation is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Portal IQ assessment tool is available under separate commercial license. Contact Platformetrics for licensing inquiries.
+The Portal IQ assessment tool codebase is available under a separate commercial license. Please feel free to contact Platformetrics for licensing inquiries.
 
 ---
 
