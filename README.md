@@ -207,6 +207,18 @@ When configured, Portal IQ produces:
 This structured approach helps teams avoid opinion-based “tool contests” and make decisions grounded in measurable outcomes.
 
 ---
+## License
+
+Portal IQ is released under the **MIT License**. See [LICENSE](./LICENSE) for details.
+
+You are free to:
+- Use Portal IQ for personal, commercial, or research purposes
+- Modify and distribute the code
+- Integrate it into your own products and services
+
+We only ask for attribution when using or modifying Portal IQ.
+
+---
 ## Code
 
 Portal IQ code could be open-sourced soon. We are still working making a few additional changes.
