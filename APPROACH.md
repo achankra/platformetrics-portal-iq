@@ -309,7 +309,7 @@ This approach provides organizations with scientifically grounded, actionable in
 **Platformetrics** specializes in platform engineering strategy, assessment, and optimization. We help organizations realize the full value of their platform investments through evidence-based approaches and proprietary frameworks.
 
 - **Website:** [www.platformetrics.com](https://www.platformetrics.com)
-- **Email:** info@platformetrics.com
+- **Email:** contact@platformetrics.com
 - **Portal IQ Tool:** [portal-iq.platformetrics.com](https://portal-iq.platformetrics.com)
 
 ---
