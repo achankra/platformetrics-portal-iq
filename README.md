@@ -8,7 +8,7 @@ You can access the framework here [Portal IQ](https://portal-iq.platformetrics.c
 
 Rather than treating every platform tool as a “DevOps solution,” Portal IQ organizes the landscape into **platform planes**, **capabilities**, and **outcomes**, aligning these dimensions with your organization’s unique context.
 
-A detailed analysis of the (Portal IQ Approach)[APPROACH.md] is available for your review, well, only if you are interested in it.
+A detailed analysis of the [Portal IQ Approach](APPROACH.md) is available for your review, well, only if you are curious about it.
 
 ---
 
